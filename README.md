@@ -22,3 +22,11 @@ $ >> make
 ## Run
 
 $ >> ./build/crc \<filename\>
+
+---
+
+## Test
+
+$ >> ./build/crc test.txt
+
+CRC: 6107472560464622295
