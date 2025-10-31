@@ -21,4 +21,4 @@ $ >> make
 
 ## Run
 
-$ >> ./build/crc <filename>
+$ >> ./build/crc \<filename\>
